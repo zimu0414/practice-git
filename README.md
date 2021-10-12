@@ -16,6 +16,6 @@ $ git push -u dragonball master
 Counting objects: 3, done.
 Writing objects: 100% (3/3), 228 bytes | 228.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
-To github.com:kaochenlong/practice-git.git
+To github.com:zimu0414/practice-git.git
 * [new branch]      maaster - > master
 Branch master set up to track remote branch master from dragonball.
