@@ -10,7 +10,7 @@ $ git commit -m "first commit"
 1 file changed, 1 insertion(+)
 create mode 100644 README.md
 
-$ git remote add dragonball git@github.com:kaochenlong/practice-git.git
+$ git remote add dragonball git@github.com:zimu0414/practice-git.git
 
 $ git push -u dragonball master
 Counting objects: 3, done.
